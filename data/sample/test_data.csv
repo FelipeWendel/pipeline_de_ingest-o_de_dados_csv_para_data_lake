@@ -1,0 +1,11 @@
+id,name,email,age,city,department,salary,hire_date
+1,Alice Silva,alice.silva@email.com,30,São Paulo,Engineering,75000,2022-01-15
+2,Bob Santos,bob.santos@email.com,25,Rio de Janeiro,Marketing,55000,2022-03-20
+3,Charlie Oliveira,charlie.oliveira@email.com,35,Belo Horizonte,Sales,65000,2021-11-10
+4,Diana Costa,diana.costa@email.com,28,Porto Alegre,Engineering,72000,2022-05-01
+5,Eduardo Lima,eduardo.lima@email.com,42,Curitiba,Management,95000,2020-08-15
+6,Fernanda Rocha,fernanda.rocha@email.com,31,Brasília,HR,58000,2021-09-22
+7,Gabriel Alves,gabriel.alves@email.com,26,Salvador,Engineering,68000,2023-01-10
+8,Helena Martins,helena.martins@email.com,33,Fortaleza,Sales,62000,2021-07-18
+9,Igor Pereira,igor.pereira@email.com,29,Recife,Marketing,59000,2022-11-05
+10,Julia Ferreira,julia.ferreira@email.com,27,Manaus,Engineering,71000,2023-02-14

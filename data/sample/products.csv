@@ -1,0 +1,11 @@
+id,product_name,category,price,stock_quantity,last_updated
+101,Notebook Dell,Electronics,3500.00,15,2024-01-15
+102,Mouse Logitech,Accessories,85.50,120,2024-01-15
+103,Teclado Mecânico,Accessories,450.00,45,2024-01-14
+104,Monitor LG 27",Electronics,1200.00,30,2024-01-15
+105,Webcam HD,Electronics,250.00,80,2024-01-13
+106,Headset Gamer,Accessories,320.00,60,2024-01-15
+107,SSD 1TB Samsung,Storage,550.00,100,2024-01-12
+108,Cadeira Ergonômica,Furniture,1800.00,25,2024-01-14
+109,Mesa para Computador,Furniture,650.00,18,2024-01-15
+110,Hub USB 3.0,Accessories,95.00,200,2024-01-15
